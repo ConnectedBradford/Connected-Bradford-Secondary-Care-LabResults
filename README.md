@@ -11,6 +11,9 @@ As a standard all our research datasets are stored in a Flexible Data Model (FDM
 
 # Connected Bradford Lab Results - CB_FDM_LabResults
 
+> [!WARNING]  
+> THIS information is out of date and subject to review. (20/04/2026) 
+
 Contains the scripts and documentation for Lab Results from  Bradford Royal Infiormary 
 It contains  8691 patients. The dataset has been fully anonymised, but can link to other FDM's.
 
